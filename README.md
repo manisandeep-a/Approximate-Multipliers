@@ -43,5 +43,5 @@ This project focuses on the design and implementation of approximate multipliers
 - Advanced compressor architectures
 - ASIC implementation
 
-## Author
+# Author
 Mani Sandeep
